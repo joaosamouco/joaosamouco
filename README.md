@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @joaosamouco
+- 🌱 I’m currently working for [Jscrambler](https://jscrambler.com)
+- 📫 [samouco.dev](https://samouco.dev)
